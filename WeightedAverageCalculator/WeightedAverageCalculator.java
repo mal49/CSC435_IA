@@ -1,3 +1,5 @@
+package WeightedAverageCalculator;
+
 import java.util.*;
 
 public class WeightedAverageCalculator {

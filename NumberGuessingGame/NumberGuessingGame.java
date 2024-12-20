@@ -1,3 +1,5 @@
+package NumberGuessingGame;
+
 import java.util.*;
 
 public class NumberGuessingGame {
